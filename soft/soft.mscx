@@ -1106,10 +1106,9 @@
           </voice>
         </Measure>
       <Measure>
-        <startRepeat/>
         <voice>
           <TimeSig>
-            <offset x="3.7136" y="0"/>
+            <offset x="0.837104" y="0"/>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
@@ -1131,8 +1130,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1149,8 +1148,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1172,8 +1171,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1190,8 +1189,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1213,8 +1212,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1231,8 +1230,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1254,8 +1253,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1272,8 +1271,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1295,8 +1294,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1313,8 +1312,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1962,15 +1961,12 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -3193,7 +3189,7 @@
       <Measure>
         <voice>
           <TimeSig>
-            <offset x="3.7136" y="0"/>
+            <offset x="0.837104" y="0"/>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
@@ -3715,7 +3711,54 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>whole</durationType>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>你</text>
+              </Lyrics>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Lyrics>
+              <text>自</text>
+              </Lyrics>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>己</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
@@ -3725,11 +3768,11 @@
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
           <Chord>
-            <durationType>half</durationType>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <text>了</text>
+              </Lyrics>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
@@ -6365,7 +6408,7 @@
       <Measure>
         <voice>
           <TimeSig>
-            <offset x="3.7136" y="0"/>
+            <offset x="0.837104" y="0"/>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
@@ -6792,10 +6835,17 @@
             <durationType>quarter</durationType>
             </Rest>
           <Chord>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -8907,7 +8957,7 @@
       <Measure>
         <voice>
           <TimeSig>
-            <offset x="3.7136" y="0"/>
+            <offset x="0.837104" y="0"/>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
@@ -8923,8 +8973,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           </voice>
@@ -8941,8 +8991,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           </voice>
@@ -8961,8 +9011,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>56</pitch>
-              <tpc>22</tpc>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           </voice>
@@ -8979,8 +9029,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>56</pitch>
-              <tpc>22</tpc>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           </voice>
@@ -8999,8 +9049,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -9017,8 +9067,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
@@ -9037,8 +9087,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>56</pitch>
-              <tpc>22</tpc>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           </voice>
@@ -9055,8 +9105,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>56</pitch>
-              <tpc>22</tpc>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           </voice>
@@ -11283,7 +11333,7 @@
       <Measure>
         <voice>
           <TimeSig>
-            <offset x="3.7136" y="0"/>
+            <offset x="0.837104" y="0"/>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
