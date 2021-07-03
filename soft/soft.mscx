@@ -493,7 +493,8 @@
           </Text>
         <Text>
           <style>Composer</style>
-          <text>鄭揚，李宸羽@自然醒</text>
+          <text>作曲：吳青峰
+編曲：鄭揚，李宸羽@自然醒</text>
           </Text>
         </VBox>
       <Measure>
@@ -6007,7 +6008,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text>靜</text>
+              <text>淨</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -7825,7 +7826,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text>靜</text>
+              <text>淨</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -10752,7 +10753,7 @@
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text>攤</text>
+              <text>灘</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -12294,7 +12295,7 @@
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text>攤</text>
+              <text>灘</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -15293,7 +15294,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text>靜</text>
+              <text>淨</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -15416,7 +15417,7 @@
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text>攤</text>
+              <text>灘</text>
               </Lyrics>
             <Note>
               <pitch>55</pitch>
@@ -16854,7 +16855,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text>靜</text>
+              <text>淨</text>
               </Lyrics>
             <Note>
               <pitch>64</pitch>
@@ -16980,7 +16981,7 @@
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Lyrics>
-              <text>攤</text>
+              <text>灘</text>
               </Lyrics>
             <Note>
               <pitch>55</pitch>
