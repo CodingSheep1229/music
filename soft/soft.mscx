@@ -109,6 +109,8 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <staffUpperBorder>6</staffUpperBorder>
+      <staffLowerBorder>6</staffLowerBorder>
       <staffDistance>3.5</staffDistance>
       <harmonyPlay>0</harmonyPlay>
       <useStandardNoteNames>0</useStandardNoteNames>
@@ -8149,11 +8151,8 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
               </Note>
             </Chord>
           </voice>
@@ -10776,11 +10775,8 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           </voice>
@@ -13363,8 +13359,8 @@
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>58</pitch>
-              <tpc>24</tpc>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           <Rest>
@@ -16145,11 +16141,8 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
+              <pitch>46</pitch>
+              <tpc>24</tpc>
               </Note>
             </Chord>
           </voice>
