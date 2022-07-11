@@ -146,9 +146,8 @@
         </Staff>
       <trackName>Sop 1</trackName>
       <Instrument id="piano">
-        <longName>Unknown</longName>
-        <shortName>Sop
-</shortName>
+        <longName>潔斯貝爾</longName>
+        <shortName>游</shortName>
         <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
