@@ -14465,6 +14465,9 @@
         <voice>
           <Chord>
             <durationType>whole</durationType>
+            <Lyrics>
+              <text>dm</text>
+              </Lyrics>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
@@ -14476,6 +14479,9 @@
         <voice>
           <Chord>
             <durationType>whole</durationType>
+            <Lyrics>
+              <text>dm</text>
+              </Lyrics>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
@@ -14487,6 +14493,9 @@
         <voice>
           <Chord>
             <durationType>whole</durationType>
+            <Lyrics>
+              <text>dm</text>
+              </Lyrics>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
@@ -14498,6 +14507,9 @@
         <voice>
           <Chord>
             <durationType>whole</durationType>
+            <Lyrics>
+              <text>dm</text>
+              </Lyrics>
             <Note>
               <pitch>56</pitch>
               <tpc>22</tpc>
